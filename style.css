@@ -842,3 +842,30 @@ padding-bottom:10px;
 }
 
 
+
+@media (max-width:480px) {
+    #icon i{
+        padding-left:270px;
+    }
+ 
+    
+
+    .middle a {
+        position: relative;
+        left:180px;
+    
+    }
+
+    .bottom a{
+        padding-top: 70px;
+        padding-left:180px;
+    }
+
+    #img{
+        width:400px;
+        height: 500px;
+    }
+
+
+
+}
